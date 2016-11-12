@@ -20,13 +20,21 @@ p {
 }
 
 #month {
-    width: 38%;
+    width: 43%;
+    font-size: 30px;
 }
 
 #date {
     width: 20%;
+    font-size: 30px;
 }
 
 button {
-    width: 38%;
+    width: 33%;
+    background-color: #2A90FD;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    border: 2px solid #2A90FD;
+    border-radius: 5px;
 }
