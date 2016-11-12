@@ -1,0 +1,32 @@
+h1,
+h2,
+h3,
+p {
+    text-align: center;
+}
+
+@media only screen and (max-width: 799px) {
+    div {
+        width: 50%;
+        margin: auto;
+    }
+}
+
+@media only screen and (min-width: 800px) {
+    div {
+        width: 30%;
+        margin: auto;
+    }
+}
+
+#month {
+    width: 38%;
+}
+
+#date {
+    width: 20%;
+}
+
+button {
+    width: 38%;
+}
